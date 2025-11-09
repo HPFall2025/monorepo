@@ -1,5 +1,5 @@
 
-# 🩺 HSA Optimizer — HackPrinceton Fall 2025
+# 🩺 hSavvy — HackPrinceton Fall 2025
 
 _By Samuel Ilyayev, Josh Niyazov, Avraham Uvaydov & Stephen Sulimani_
 
@@ -7,7 +7,7 @@ _By Samuel Ilyayev, Josh Niyazov, Avraham Uvaydov & Stephen Sulimani_
 
 ## 🚀 Overview
 
-**HSA Optimizer** helps users take control of their healthcare spending and make smarter use of their **Health Savings Accounts (HSAs).**
+**hSavvy** helps users take control of their healthcare spending and make smarter use of their **Health Savings Accounts (HSAs).**
 
 By integrating with **Knot’s TransactionLink API**, our platform analyzes a user’s purchase history down to the SKU level — identifying HSA-eligible expenses, generating financial insights, and even helping users invest their unused HSA balance intelligently.
 
