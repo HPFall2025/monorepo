@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = github.com:HPFall2025/Backend
+[submodule "Frontend"]
+	path = Frontend
+	url = github.com:HPFall2025/Frontend
